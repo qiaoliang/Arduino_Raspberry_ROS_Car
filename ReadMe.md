@@ -1,6 +1,16 @@
 # Arduino_Raspberry_ROS_Car Tutorials
 
+
 ![](pictures/cars.jpg)
+
+## 知乎原文
+
+
+[开源！手把手教你搭建Arduino+树莓派的ROS小车（上）](https://zhuanlan.zhihu.com/p/389331316)
+
+[开源！手把手教你搭建Arduino+树莓派的ROS小车（下）](https://zhuanlan.zhihu.com/p/392185692)
+
+[知乎博主的主页](https://zhuanlan.zhihu.com/p/392185692)
 
 ## chapter 1: Construction A ROS Car
 
